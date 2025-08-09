@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "통나무 포인트 자동 클립",
+  "name": "통나무 포인트 자동 클릭",
   "version": "1.0",
   "description": "치지직 통나무 포인트를 자동으로 클릭합니다.",
   "content_scripts": [
