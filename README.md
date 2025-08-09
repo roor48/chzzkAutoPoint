@@ -1,4 +1,5 @@
 # 치지직 포인트 자동 클릭
 치지직 통나무 포인트 자동 클릭 확장 프로그램 입니다.
 
-확장 프로그램으로 등록만 하시면 자동 실행 됩니다.
+확장 프로그램으로 등록만 하시면 자동 실행 됩니다.  
+[다운로드](https://codeload.github.com/roor48/chzzkAutoPoint/zip/refs/heads/main)
