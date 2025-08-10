@@ -3,6 +3,12 @@
   "name": "통나무 포인트 자동 클릭",
   "version": "1.0",
   "description": "치지직 통나무 포인트를 자동으로 클릭합니다.",
+  "icons": {
+    "16": "images/icon128.png",
+    "32": "images/icon128.png",
+    "48": "images/icon128.png",
+    "128": "images/icon128.png"
+  },
   "content_scripts": [
     {
       "matches": ["https://chzzk.naver.com/*"],
