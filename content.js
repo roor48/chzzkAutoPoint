@@ -1,5 +1,5 @@
 function clickButton() {
-    const btn = document.querySelector('button[class*="live_chatting_popup_channel_power_button__"]');
+    const btn = document.querySelector('div[class*="live_chatting_power_container__"] button');
     if (btn && !btn.disabled) {
         console.log('통나무 파워 클릭');
         btn.click();
