@@ -1,5 +1,6 @@
-# 치지직 포인트 자동 클릭
-치지직 통나무 포인트 자동 클릭 확장 프로그램 입니다.
+# 치지직 포인트 자동 획득
+치지직 통나무 파워 자동 획득 확장 프로그램 입니다.
 
-확장 프로그램으로 등록만 하시면 자동 실행 됩니다.  
-[다운로드](https://codeload.github.com/roor48/chzzkAutoPoint/zip/refs/heads/main)
+1시간마다 시청 인증을 통해 획득 가능한 통나무 파워를 자동으로 인증해 포인트를 얻습니다.
+
+[다운로드](https://chromewebstore.google.com/detail/nhgjhelbffafdgfmfodnoplbjblaniji)
